@@ -95,7 +95,7 @@ utiliser.
 Bien sûr, le micro:bit reçoit aussi les messages diffusés pour les autres
 combinaisons d'adresse et de groupe. Mais ce qui est important c'est que tu n'as
 pas besoin de t'occuper de les filtrer. Néanmoins, si quelqu'un était suffisament
-intelligent, il pourrait lire * tout le trafic du réseau sans fils* quelque soit
+intelligent, il pourrait lire **tout le trafic du réseau sans fils** quelque soit
 la cible adresse/groupe à laquelle il est destiné. Dans ce cas il est indispensable
 d'utiliser des moyens de communication cryptés pour que seul le destinataire
 souhaité soit capable de lire le message diffusé. La cryptographie est un sujet
